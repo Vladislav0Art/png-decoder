@@ -1,5 +1,16 @@
 # PNG Decoder
 
+
+## Demonstration:
+
+---
+
+### Transmitting PNG images into JPG images:
+
+In the video the png images are being transformed into jpg images by first being decoded into a pixel based image structure using the **PNG decoder** and then transformed into jpg images using external library.
+
+<img src="./assets/transform-png-to-jpg.gif" style="width:900px;display:block;margin:auto;margin-top:20px;"/>
+
 ## Supported features:
 
 ---
